@@ -1,0 +1,71 @@
+body {
+  background-image: url('');
+}
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:400,700);
+.imagen{
+  position: absolute;
+}
+.poema {
+  position: relative;
+}
+.cabezera a {
+  color: #F7819F;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+
+}
+
+.titulo {
+  font-family: 'Dancing Script', cursive;
+  font-size:35px;
+}
+
+.subtitulo{
+  font-family: 'Dancing Script', cursive;
+  font-size:24px;
+}
+
+.letra {
+  font-family: 'Dancing Script', cursive;
+  font-size:20px;
+}
+
+.ramos {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-top: 1px solid #F6CED8 ;
+  border-bottom: 1px solid #F6CED8;
+  color: #F7819F;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.Flores-Silvestres{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-top: 1px solid #F6CED8 ;
+  border-bottom: 1px solid #F6CED8;
+  color: #F7819F;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.footer {
+    margin-top: 2%;
+    border-top: 1px solid #F6CED8 ;
+    
+}
+.footer-color {
+  color: #F7819F;
+}
+.boton-rosa {
+  background-color: #F7819F;
+}
+
+.poema {
+  display: flex;
+
+}
+.mapa{
+  margin-left: 2%;
+}
